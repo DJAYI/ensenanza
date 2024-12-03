@@ -22,7 +22,8 @@ Primero tengamos en cuenta que (así como en el proceso de esculpir), en la prog
 ---
 #### Ciclo de vida del Software.
 
-![[Pasted image 20241202234321.png]]
+![image](https://github.com/user-attachments/assets/3150be91-92a6-43a2-9b7b-a877aa7aae29)
+
 
 > Sé que quieres pasar al código de una vez, pero es necesario la aclaración de los siguientes conceptos si quieres realizar Software de calidad y escalable 😉
 
